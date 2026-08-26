@@ -69,9 +69,11 @@ Welcome to my GitHub! I'm currently developing my skills in data analysis throug
 
 | Project | Tools | Focus |
 |---|---|---|
-| 📗 Excel Data Analysis | Excel | Data analysis, PivotTables & visualisation |
-| 📊 Data Visualisation | Tableau & Power BI | Dashboards & data storytelling |
-| 🐍 Python Data Analysis | Python & Pandas | Data manipulation & analysis |
+| 📗 **[My-Excel-Repo](https://https://github.com/nickbrooklynne-code)** | Excel | dashboards, sales analysis PivotTables & visualisation |
+| 📊 **[Tableau-PowerBI-Showcase](https://github.com/nickbrooklynne-code/Tableau-PowerBI-Showcase)** | Power BI | DAX, Power Query, interactive reports |
+| 🗄️ **[SQL-Project](https://github.com/nickbrooklynne-code/SQL-Project)** | SQL | Joins, aggregation, database design
+| ☁️ **[azure-frame-work-and-AI-model-creation](https://github.com/nickbrooklynne-code/azure-frame-work-and-AI-model-creation)** | Azure | Cloud architecture & GDPR-compliant data solutions |
+| 🐍 **[Python-fundamentals-](https://github.com/nickbrooklynne-code/Python-fundamentals-)** | Python & Pandas | Data manipulation & analysis |
 
 ---
 
